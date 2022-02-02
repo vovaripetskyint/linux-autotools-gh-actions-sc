@@ -1,4 +1,4 @@
-= C++ example project scanned on SonarCloud using GitHub Actions test
+= C++ example project scanned on SonarCloud using GitHub Actions test2
 // URIs:
 :uri-qg-status: https://sonarcloud.io/dashboard?id=sonarsource-cfamily-examples_linux-autotools-gh-actions-sc
 :img-qg-status: https://sonarcloud.io/api/project_badges/measure?project=sonarsource-cfamily-examples_linux-autotools-gh-actions-sc&metric=alert_status
